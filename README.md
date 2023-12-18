@@ -26,7 +26,7 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-
+```
 How to Instal and Run the project:
 This project lives in "https://github.com/BaharMahmud/MyDailyCalendar".
 Go to "Clone" and get the project SSH to clone this project to your local.
